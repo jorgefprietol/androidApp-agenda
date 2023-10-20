@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Clientes - Prestamos</string>
+    <string name="hint_nombre">Nombre:</string>
+    <string name="hint_telefono">Telefono:</string>
+    <string name="hint_correo_electronico">Correo electronico:</string>
+    <string name="hint_monto">Monto:</string>
+    <string name="hint_cliente">Cliente:</string>
+    <string name="hint_cant_uota">Cantidad Cuotas:</string>
+    <string name="hint_porcentaje">Porcentaje:</string>
+    <string name="btn_guarda">Guardar registro</string>
+    <string name="menu_nuevo">Nuevo Cliente</string>
+    <string name="menu_nuevo_prestamo">Nuevo Prestamo</string>
+    <string name="menu_ver_prestamo">Ver Prestamos</string>
+</resources>
